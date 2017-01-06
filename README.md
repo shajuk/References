@@ -5,4 +5,7 @@ This repository is one stop shop for good articles, blogs, solutions to rare iss
 ## Simulate multiple inheritance in Java
 http://www.javaworld.com/article/2072159/core-java/simulate-multiple-inheritance-in-java.html
 
+## List of free services
+https://github.com/Kickball/awesome-selfhosted
+
 
