@@ -30,3 +30,13 @@ Let’s take an example of relationship between House and rooms. House can conta
 
 Let’s take another example of relationship between Questions and options. Single questions can have multiple options and option cannot belong to multiple questions. If we delete questions options will be automatically deleted.
 
+## Dependency
+It represents a relationship between two or more objects where an object is dependent on another object(s) for its specification or implementation. This is represented by a dashed arrow.
+
+<img alt="dependency image" src="/resources/images/dependency.png" />
+
+Let’s take an example of relationship between client and service. A client is dependent on the service for implementing its functionalities.
+
+<img alt="dependency relationship image" src="/resources/images/dependency-diagram.png" />
+
+Let’s take another example of relationship between a client and a supplier. A client is dependent on the supplier for supplying products. If the supplier will not supply the products, client cannot use those products.
