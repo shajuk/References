@@ -4,3 +4,4 @@ It represents a relationship between two or more objects where all objects have 
 
 Let’s take an example of relationship between Teacher and Student. Multiple students can associate with a single teacher and a single student can associate with multiple teachers. But there is no ownership between the objects and both have their own lifecycle. Both can be created and deleted independently.
 
+<img alt="resource not found" src="/resources/images/association-diagram.png" />
